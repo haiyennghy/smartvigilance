@@ -1,0 +1,16 @@
+stanza
+tqdm
+transformers==3
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+# Torch version specifically for our workstation (with RTX 3090)
+torch==1.7.1+cu110 -f https://download.pytorch.org/whl/torch_stable.html
+pickle5
+spacy
+mlxtend
+hunspell
+xmltodict
+nltk
