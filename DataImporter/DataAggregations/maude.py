@@ -6,8 +6,8 @@ sys.path.append("..")
 from collections import Counter
 import matplotlib.pyplot as plt
 #import smartvigilance.DataImporter.utils as utils
-import ..utils as utils
-from utils import open_json, save_dict_as_pkl, load_pkl, save_pd_in_chunks
+import smartvigilance.DataImporter.utils as utils
+from smartvigilance.DataImporter.utils import open_json, save_dict_as_pkl, load_pkl, save_pd_in_chunks
 import pandas as pd
 
 
