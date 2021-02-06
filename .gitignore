@@ -65,8 +65,6 @@ _build
 #Juypter recovery files
 .ipynb_checkpoints/
 
-#data file
-data/
 
 #Images
 *.png
